@@ -1,0 +1,1 @@
+python anagrams2.py $1|gawk '{print length(), $0}' |sort -n|uniq

@@ -1,0 +1,36 @@
+- /Temp/
+- $Recycle.Bin/
++ _Projects/
+- BOOTSECT.BAK*
+- camera.log*
+- cygwin64/
++ Documents and Settings@
+- eclipse/
+- hiberfil.sys
+- HPCamDrv.log*
+- HPSDM/
+- inetpub/
+- Intel/
+- MSOCache/
+- OCSETUPDIR/
+- pagefile.sys
+- PerfLogs/
+- Perl64/
+- Program Files/
+- Program Files (x86)/
+- ProgramData/
++ Projects/
+- Python27/
+- Recovery/
++ Scripts/
+- ssm/
++ Studio/
+- System Volume Information/
+- system.sav/
+- tb30/
+- temp/
++ Tools/
++ Users/
+- Users/rautiju/AppData/
+- Windows/
++ Work/
